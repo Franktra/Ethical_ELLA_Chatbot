@@ -23,7 +23,7 @@ Generates responses using the trained chatbot model and incorporates bias detect
 
 ## Usage 📚🚀
 
-To use the Ethical-Ella chatbot:
+To use the Ethical-Ella chatbot do listed instructctions in `bot.py`:
 
 1. Load and preprocess the data: Implement the `load_and_preprocess_data` function to load and preprocess the dataset for training the chatbot model.
 

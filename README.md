@@ -1,6 +1,6 @@
-# Ethical-Ella-Chatbot
+# 🤖 Ethical-Ella-Chatbot
 
-🤖✨ This project aims to develop an Ethical AI Chatbot called Ethical-Ella. The chatbot utilizes a combination of natural language processing and machine learning techniques to provide meaningful and unbiased responses to user queries. It incorporates features such as bias detection and mitigation, content filtering, and response evaluation to ensure the ethical behavior of the chatbot. 🌐🔬🤝
+✨ This project aims to develop an Ethical AI Chatbot called Ethical-Ella. The chatbot utilizes a combination of natural language processing and machine learning techniques to provide meaningful and unbiased responses to user queries. It incorporates features such as bias detection and mitigation, content filtering, and response evaluation to ensure the ethical behavior of the chatbot. 🌐🔬🤝
 
 ## Project Overview
 
